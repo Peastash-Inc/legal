@@ -1,268 +1,279 @@
 # Peastash Merchant Agreement
 _Last Updated: November 15, 2025_
 
-This Merchant Agreement (“**Agreement**”) is entered into by and between **The Candeed Corp**, a New Jersey corporation doing business as **Peastash** (“**Peastash**,” “**we**,” “**us**,” or “**our**”), and the restaurant or business accepting this Agreement (“**Merchant**,” “**Restaurant**,” or “**you**”).
+This Merchant Agreement (“Agreement”) is entered into by and between **The Candeed Corp**, a New Jersey corporation doing business as **Peastash** (“Peastash,” “we,” “us,” or “our”), and the restaurant or business accepting this Agreement (“Merchant,” “you,” or “your”).
 
-By enrolling your restaurant on the Peastash platform, you agree to the terms below.
-
----
-
-## 1. Overview
-
-Peastash is a marketplace and delivery facilitation platform that connects customers with local restaurants using independent bicycle couriers. Peastash does **not** prepare, manufacture, sell, or package food.  
-Restaurants are the **merchant of record** for all food and beverage items.
-
-Peastash provides:
-- Ordering infrastructure  
-- Payment collection  
-- Delivery dispatch  
-- Merchant reporting  
-- Customer support for platform-related issues  
+By listing your restaurant on the Peastash platform, you agree to the terms below.
 
 ---
 
-## 2. Merchant of Record
+# 1. Overview
 
-By using the Peastash platform, you acknowledge and agree that:
+Peastash is a marketplace and delivery facilitation platform. Peastash does not prepare, package, store, or sell food. Restaurants are the sole sellers and merchants of record for all food and beverage items.
 
-- You are the sole **seller and merchant of record** for all food and beverage items.
+Peastash provides order placement, payment collection, courier dispatch, and delivery facilitation through independent bicycle couriers.
+
+Peastash does **not** support alcohol sales at this time.
+
+---
+
+# 2. Merchant of Record
+
+You acknowledge and agree that:
+
+- You are the **merchant of record** for all food and beverage items sold through Peastash.
+- You determine menu pricing, ingredients, allergens, and taxes.
 - You are responsible for:
-  - Menu accuracy  
-  - Pricing  
-  - Taxes  
-  - Food preparation  
-  - Food safety and compliance  
-  - Allergen disclosures  
-  - Packaging and sealing  
-  - Order accuracy  
+  - Food preparation
+  - Food safety and compliance with all local laws
+  - Packaging and sealing
+  - Ingredient and allergen disclosures
+  - Menu accuracy
+  - Sales tax calculation and remittance
 
-Peastash is **not** the seller of any food item and assumes no liability related to preparation, safety, or allergens.
+Peastash does not verify menu accuracy, allergen statements, or tax rates.
 
 ---
 
-## 3. Enrollment & Stripe Connect
+# 3. Price Parity Requirement
 
-### 3.1 Required Stripe Connect Account
-To receive payouts, you must create and maintain a valid **Stripe Connect** account.
+All prices listed on Peastash must **match your in-store prices** offered to walk-in customers.
 
+Examples:
+
+- A $12.99 in-store burger must be $12.99 on Peastash.
+- A $2.49 drink must be $2.49 on Peastash.
+
+Peastash does not dictate your prices; we only require that the prices shown in the app be identical to the prices offered in person.
+
+Peastash may adjust or suspend menu access if price parity is not maintained.
+
+---
+
+# 4. Payments, Fees, and Payout Schedule
+
+## 4.1 Stripe Connect Required  
+To receive payouts, the Merchant must maintain an active **Stripe Connect** account.  
 You authorize Peastash and Stripe to:
+
 - Collect customer payments on your behalf  
-- Deduct fees described in this Agreement  
-- Transfer net payouts to your connected account  
+- Deduct applicable fees  
+- Deposit net funds into your connected account  
 
-### 3.2 Suspension of Payouts  
-If Stripe flags your account for verification, compliance, or fraud concerns, payouts may be temporarily delayed until resolved.
+## 4.2 Weekly Payout Schedule  
+Peastash deposits the Merchant’s **net payout every Tuesday** for completed and settled orders from the previous payout period.
 
----
+## 4.3 Service Fee (6%)  
+Peastash charges a **6% service fee**, calculated **only on the final payout amount** after all adjustments, excluding sales tax.
 
-## 4. Fees & Payment Structure
+The fee:
 
-### 4.1 Marketplace Service Fee (6% of Weekly Payouts)
-Peastash charges the Merchant a **6% service fee** calculated on the food subtotal of all completed orders for each weekly payout period.
-
-This fee:
-- Applies only to the **food subtotal**  
+- Applies only to the **food subtotal actually received by the Merchant**  
 - Does not apply to tax  
-- Does not apply to the customer-paid delivery fee  
-- Is automatically deducted from payouts  
+- Does not apply to the customer delivery fee  
+- Is automatically deducted from the payout  
 
-### 4.2 Stripe Payment Processing Fees
-The Merchant is responsible for all Stripe processing fees, including but not limited to:
+### Example  
+Food subtotal: $100  
+Refund adjustment: –$10  
+Final subtotal: $90  
+Sales tax: separate  
+Service fee (6% of $90): $5.40
 
-- Standard card processing: **2.9% + $0.30 per transaction** (subject to Stripe’s adjustments)
+## 4.4 Sales Tax  
+Sales tax is listed as a separate line item and is **not included** in fee calculations.
 
-These fees are deducted automatically by Stripe.
+Peastash transfers tax amounts to the Merchant, and the Merchant is responsible for remitting tax to the appropriate taxing authority.
 
-### 4.3 Payouts
-Peastash collects customer payments, deducts:
-- Service fees  
-- Stripe processing fees  
-- Any adjustments or refunds  
+## 4.5 Stripe Processing Fees  
+The Merchant pays all Stripe processing fees (e.g., 2.9% + 30¢), deducted by Stripe automatically.
 
-… and transfers the remaining **net payout** to your Stripe Connect account.
+## 4.6 Right to Offset  
+Peastash may deduct from payouts:
 
-### 4.4 Reporting
-Peastash provides reporting through the merchant dashboard, including:
-- Orders completed  
-- Revenue  
-- Deductions  
 - Refunds  
-- Net payouts  
+- Adjustments  
+- Chargebacks  
+- Fraud-related reimbursements  
+- Any amounts owed under this Agreement  
 
 ---
 
-## 5. Merchant Responsibilities
+# 5. Order Processing & Pickup Verification
 
-### 5.1 Menu Accuracy
-You agree to provide accurate and up-to-date:
-- Menu items  
-- Prices  
-- Photos  
-- Descriptions  
-- Allergen and dietary information  
+## 5.1 Order Accuracy  
+Merchant must prepare all orders exactly as shown in the Peastash dashboard.
 
-### 5.2 Food Quality & Safety
-You are solely responsible for:
-- Preparing food according to applicable laws  
-- Ensuring proper packaging and temperature  
-- Sealing food to prevent tampering  
-- Handling allergens, cross-contamination, and labeling  
+## 5.2 PIN Verification System  
+To protect Merchants from fraudulent pickups, Peastash uses a **PIN verification system**.
 
-Peastash does not inspect kitchens or verify ingredient accuracy.
+- Each order generates a unique PIN code visible only to the restaurant.  
+- The courier must present the correct PIN to the restaurant at pickup.  
+- The order cannot be marked as “picked up” in the system until the PIN is successfully verified.  
+- Once verified, the system permanently records proof of handoff.
 
-### 5.3 Preparation Time
-You must:
-- Accurately estimate preparation times  
-- Mark orders “ready” only when physically ready for pickup  
-- Cooperate with couriers during pickup  
+This system protects Merchants from:
 
-### 5.4 Taxes
-You are responsible for:
-- All sales tax obligations  
-- Calculating the proper tax for your jurisdiction  
-- Complying with NYC and NJ tax rules  
+- False courier claims  
+- Fraudulent pickups  
+- Disputes regarding whether an order left the store  
 
-Peastash collects tax **on your behalf** and transfers it to you.  
-You must remit all applicable taxes to the appropriate authority.
+## 5.3 Packaging Standards  
+Merchant agrees to:
 
-### 5.5 Merchant Conduct
-You agree not to:
-- Encourage customers to cancel Peastash orders  
-- Charge different prices to Peastash customers  
-- Redirect Peastash customers to other platforms  
-- Engage in fraudulent behavior  
-
----
-
-## 6. Customer Issues & Refunds
-
-### 6.1 Food-Related Issues
-You are solely responsible for issues arising from:
-- Incorrect items  
-- Missing items  
-- Poor quality  
-- Cold food  
-- Allergen exposure  
-- Undercooked or unsafe food  
-
-Peastash may issue refunds or adjustments to customers for food-related issues, and Peastash may deduct these amounts from your payout.
-
-### 6.2 Delivery-Related Issues
-Peastash is responsible for:
-- Delivery timing  
-- Courier performance  
-- Tracking  
-- Delivery support  
-
-If Peastash refunds a customer due to a **delivery error**, the refund will **not** be deducted from the Merchant.
-
-### 6.3 Chargebacks
-If a customer disputes a charge, Stripe may deduct the disputed amount from your account. Resolution will follow Stripe policies.
-
----
-
-## 7. Packaging Standards
-
-You agree to:
-- Seal all bags securely  
 - Use tamper-evident packaging  
-- Properly label orders  
-- Ensure liquids are sealed and safe for transport  
+- Secure all containers  
+- Properly seal bags  
+- Ensure safe transport conditions  
 
-Couriers may refuse unsafe packaging.
+Couriers may decline pickups that appear unsafe or improperly sealed.
 
 ---
 
-## 8. Courier Relations
+# 6. Taxes
 
-Couriers are **independent contractors**, not employees of Peastash or the Merchant.  
-Merchants may not:
+The Merchant is responsible for:
+
+- Calculating sales tax  
+- Maintaining proper tax classifications  
+- Remitting sales tax to the applicable tax authority  
+
+Peastash does not remit taxes on the Merchant’s behalf.
+
+Tax is transferred to the Merchant exactly as collected.
+
+---
+
+# 7. Customer Issues & Refunds
+
+## 7.1 Food-Related Issues (Merchant Responsibility)
+You are responsible for:
+
+- Missing items  
+- Incorrect items  
+- Allergen or ingredient mistakes  
+- Unsafe food  
+- Contamination  
+- Packaging failures  
+- Incorrect tax  
+
+Peastash may refund customers for such issues and deduct refunded amounts from payouts.
+
+## 7.2 Delivery-Related Issues (Peastash Responsibility)  
+Peastash covers refunds related to:
+
+- Late deliveries  
+- Failed deliveries  
+- Courier errors  
+
+These refunds are **not deducted** from the Merchant.
+
+## 7.3 Chargebacks  
+Stripe may deduct disputed transactions in accordance with Stripe’s policies. The Merchant must cooperate with Peastash during investigations.
+
+---
+
+# 8. Courier Relationship
+
+Couriers are independent contractors, not employees of Peastash or the Merchant.
+
+The Merchant may not:
+
 - Direct, supervise, or control couriers  
-- Demand couriers use certain routes  
-- Require couriers to perform non-delivery tasks  
+- Assign couriers additional tasks  
+- Require specific routes or handling methods  
+
+Couriers only facilitate delivery.
 
 ---
 
-## 9. Term & Termination
+# 9. Suspension and Termination
 
-### 9.1 Term
-This Agreement begins upon acceptance and continues until terminated.
+Peastash may suspend or terminate Merchant access if:
 
-### 9.2 Termination by Either Party
-Either party may terminate with or without cause by providing written notice.
+- Price parity is violated  
+- Unsafe food practices occur  
+- Repeated customer complaints arise  
+- Fraud is detected  
+- Excessive refunds occur  
+- Tax misrepresentation occurs  
+- Stripe account integrity issues arise  
+- This Agreement is violated  
 
-### 9.3 Immediate Termination by Peastash
-Peastash may suspend or terminate Merchant access for:
-- Repeated customer complaints  
-- Unsafe food practices  
-- Fraudulent or deceptive activity  
-- Non-payment or chargeback abuse  
-- Menu manipulation  
-- Violations of law  
-- Violations of this Agreement  
+Merchant may terminate participation at any time.
 
-### 9.4 Effect of Termination
-Outstanding fees or adjustments will be deducted prior to final payout.
+Outstanding adjustments or fees will be deducted before the final payout.
 
 ---
 
-## 10. Indemnification
+# 10. Indemnification
 
-Merchant agrees to indemnify, defend, and hold harmless Peastash and its officers, directors, employees, contractors, and agents from claims arising out of:
+The Merchant agrees to indemnify and hold harmless Peastash and its officers, employees, and contractors from claims arising out of:
 
 - Food preparation or safety  
-- Allergens or contamination  
-- Menu inaccuracies  
-- Sales tax obligations  
-- Violations of health codes  
-- Negligent or unlawful business practices  
-- Inaccurate or misleading information provided  
+- Allergen incidents  
+- Menu or pricing inaccuracies  
+- Sales tax errors  
+- Health code violations  
+- Negligence or misconduct by the Merchant  
+- Packaging failures  
+- Violations of law  
+
+This obligation survives termination.
 
 ---
 
-## 11. Limitation of Liability
+# 11. Limitation of Liability
 
-To the maximum extent permitted by law:
+To the fullest extent permitted by law:
 
-- Peastash is not liable for indirect, special, incidental, punitive, or consequential damages.  
-- Peastash’s total liability is capped at the service fees paid by the Merchant in the preceding **30 days**.  
+- Peastash is not liable for indirect, special, incidental, punitive, or consequential damages  
+- Peastash’s liability is capped at the total service fees paid by the Merchant in the preceding **30 days**  
 
 ---
 
-## 12. Dispute Resolution & Arbitration
+# 12. Data Practices
 
-### 12.1 Binding Arbitration
-All disputes between the Merchant and Peastash will be resolved through **binding individual arbitration**, not court.
+Peastash may collect anonymized or aggregated operational data to improve the platform.
 
-### 12.2 No Class Actions
-Merchant waives the right to bring:
+The Merchant may not export, store, or reuse customer information obtained through Peastash outside of fulfilling orders.
+
+Peastash does not sell customer personal information.
+
+---
+
+# 13. Dispute Resolution
+
+All disputes between the Merchant and Peastash will be resolved through **binding individual arbitration**.
+
+### 13.1 Class Action Waiver  
+The Merchant waives any right to:
 
 - Class actions  
 - Mass actions  
 - Representative actions  
 
-### 12.3 Governing Law  
+### 13.2 Governing Law  
 This Agreement is governed by the laws of **New Jersey**.
 
-### 12.4 Small Claims Exception  
-Either party may bring a claim in small claims court.
+### 13.3 Small Claims Exception  
+Either party may bring an individual claim in small claims court.
 
 ---
 
-## 13. Entire Agreement
+# 14. Entire Agreement
 
-This Agreement constitutes the entire agreement between Merchant and Peastash and supersedes all prior discussions.
+This Agreement is the entire understanding between Peastash and the Merchant and supersedes all prior written or verbal agreements.
 
 ---
 
-## 14. Electronic Acceptance
+# 15. Electronic Acceptance
 
-By listing your restaurant on the Peastash platform, you acknowledge that:
+By onboarding your restaurant or continuing to use Peastash, you confirm that:
 
-- You have read and understood this Agreement  
+- You have read and understand this Agreement  
 - You agree to be bound by it  
 - You are authorized to accept on behalf of the business  
 
-For questions, contact us at: **support@peastash.com**.
-
+For questions, email **support@peastash.com**.
 
