@@ -1,1 +1,1 @@
-# legal
+# Peastash - Terms of Service
